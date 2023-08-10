@@ -19,7 +19,9 @@ class AppTheme {
   ThemeData theme() {
     return ThemeData(
       useMaterial3: true,
-       appBarTheme: const AppBarTheme(),
+       appBarTheme: const AppBarTheme(
+        backgroundColor: Colors.red
+       ),
        scaffoldBackgroundColor: Colors.black,
        textTheme: const TextTheme(
         headlineLarge: TextStyle(
