@@ -34,21 +34,21 @@ class _StartScreenState extends State<StartScreen> {
         items: const <BottomNavigationBarItem> [
           BottomNavigationBarItem(
             icon: Icon(Icons.sports_basketball),
-            label: 'Juegos Completos',
-            backgroundColor: Colors.red
+            label: 'Partidos clasicos',
+            backgroundColor: Colors.white
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.sports_basketball),
-            label: 'All-Start game',
-            backgroundColor: Colors.red
+            label: 'Jugadores',
+            backgroundColor: Colors.white
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.sports_basketball),
-            label: 'Mejores jugadores',
+            label: 'All-Start',
             backgroundColor: Colors.red
           ),
         ],
-        backgroundColor: Colors.amber,
+        backgroundColor: Colors.blue,
         onTap: null,
       ),
     );

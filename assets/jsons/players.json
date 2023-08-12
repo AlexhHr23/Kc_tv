@@ -1,0 +1,27 @@
+{
+    "player1": {
+        "url": "https://www.youtube.com/watch?v=inlxyI5-eG8&t=14s",
+        "title": "¡La mejor jugada de cada temporada de Dirk Nowitzki en su carrera en la NBA! | #23HoopClassic",
+        "mini": "lib/assets/miniatures/the_franchise_e1.png", 
+        "duration": "5:03", 
+        "date": "08/08/2023",
+        "description": "Uno de los campeones de la NBA más leales y subestimados, que tiene un gran impacto en el juego Big Man Shooting, disfruta de tu Salón de la Fama, Dirk."
+    },
+    "player2": {
+        "url": "https://www.youtube.com/watch?v=ybOi639tb7U",
+        "title": "¡Las 30 mejores jugadas irreales de Derrick Rose!",
+        "mini": "lib/assets/miniatures/the_franchise_e2.png",
+        "duration": "8:26",
+        "date": "04/09/2018",
+        "description": "Para celebrar el cumpleaños número 30 de Derrick Rose, echa un vistazo a las 30 mejores jugadas de su carrera."
+    },
+    "player3": {
+        "url": "https://www.youtube.com/watch?v=jbW4f60dCNA",
+        "title": "Las 60 mejores jugadas de carrera de Michael Jordan",
+        "mini": "lib/assets/miniatures/the_franchise_e3.png",
+        "duration": "1:23",
+        "date": "17/02/2023",
+        "description": "¡En honor a su 60 cumpleaños, echa un vistazo a la cuenta regresiva de las 60 mejores jugadas de la carrera de MJ!"
+    }
+
+} 

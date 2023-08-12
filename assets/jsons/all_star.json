@@ -1,0 +1,26 @@
+{
+    "video1": {
+        "url": "https://www.youtube.com/watch?v=awLQ_A33H9Y",
+        "title": "The FULL 2023 NBA #ATTSlamDunk Contest! 👀 | 2023 #NBAAllStar",
+        "mini": "lib/assets/miniatures/the_franchise_e1.png", 
+        "duration": "1:10", 
+        "date": "01/06/2022",
+        "description": "Sumérgete en el espectacular concurso #ATTSlamDunk de la NBA 2023 en el evento #NBAAllStar."
+    },
+    "video2": {
+        "url": "https://www.youtube.com/watch?v=vGrzKRBwGX4",
+        "title": "The FULL 2016 NBA #ATTSlamDunk | NBA Classic",
+        "mini": "lib/assets/miniatures/the_franchise_e2.png",
+        "duration": "34:42",
+        "date": "14/02/2023",
+        "description": "Revive cada impresionante clavada del concurso #ATTSlamDunk de la NBA 2016 | Clásico de la NBA."
+    },
+    "video3": {
+        "url": "https://www.youtube.com/watch?v=fVq7w22Af2Q",
+        "title": "The FULL 2023 NBA #Starry3PT Contest 🎯 | 2023 #NBAAllStar",
+        "mini": "lib/assets/miniatures/the_franchise_e3.png",
+        "duration": "1:23",
+        "date": "12/02/2023",
+        "description": "Disfruta del emocionante concurso de triples #Starry3PT completo de la NBA 2023 en el evento #NBAAllStar"
+    }
+}

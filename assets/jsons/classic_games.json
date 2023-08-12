@@ -1,0 +1,26 @@
+{
+    "game1": {
+        "url": "https://www.youtube.com/watch?v=lO2yOETR2jQ&list=PLlVlyGVtvuVniS7jx4DyESaKRUANIzyhE&index=77",
+        "title": " Michael Jordan's Double-Nickel Game | #NBATogetherLive Classic Game ",
+        "mini": "lib/assets/miniatures/sb54_kc_sf_020220.png",
+        "duration": "1:56:28",
+        "date": "02/02/2020",
+        "description": "Hace 25 años, Michael Jordan anotó 55 puntos en una actuación clásica en el Madison Square Garden. Fue su quinto juego en la NBA después de retirarse casi dos años antes."
+    },
+    "game2": {
+        "url": "https://www.youtube.com/watch?v=lKr5NocH5XM&list=PLlVlyGVtvuVniS7jx4DyESaKRUANIzyhE&index=41",
+        "title": " Historic 3PT Playoff Duel | #NBATogetherLive Classic Game ",
+        "mini": "lib/assets/miniatures/kc_la_19112018.png",
+        "duration": "1:31:06",
+        "date": "19/11/2018",
+        "description": "Flashback de un juego de playoffs HISTÓRICO en el que los Atlanta Hawks y los Cleveland Cavaliers empataron el récord de los Playoffs de la NBA en triples en un solo juego con 37‼️ #NBATogetherLive"
+    },
+    "game3": {
+        "url": "https://www.youtube.com/watch?v=o2TKJPVAw_c&list=PLlVlyGVtvuVniS7jx4DyESaKRUANIzyhE&index=64",
+        "title": " Kobe's 49 PTS Leads Lakers To Game 2 W | #NBATogetherLive Classic Game ",
+        "mini": "lib/assets/miniatures/bal_kc_28092020",
+        "duration": "1:41:26",
+        "date": "28/09/2020",
+        "description": "Kobe Bryant se fue por 49 PTS, 10 AST cuando los Lakers derrotaron a los Nuggets en el Juego 2 de la Primera Ronda de los Playoffs de la NBA de 2008. #20clase de aro"
+    }
+}
